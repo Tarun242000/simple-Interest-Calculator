@@ -4,7 +4,7 @@ div{
 		background:yellow;
 		color:black;
 		width:350px;
-		height:400px;
+		height:420px;
 		padding:30px;
 		text-align:center;
 		box-shadow:2px 2px 4px 6px blue;
@@ -33,7 +33,7 @@ button{
 		}
 	}
 	output{
-		font-size:15px;
+		font-size:25px;
 	}
 	span{
 	color:red;
