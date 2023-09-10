@@ -1,0 +1,41 @@
+div{    
+        margin:auto;
+		margin-top:50px;
+		background:yellow;
+		color:black;
+		width:350px;
+		height:380px;
+		padding:30px;
+		text-align:center;
+		box-shadow:2px 2px 4px 6px blue;
+
+}
+button{
+		cursor:pointer;
+		width:90px;
+		height:40px;
+		background:linear-gradient(to right,orange,white);
+		border:none;
+		border-radius:4px;
+		font-size:20px;
+	}
+	label,input{
+		font-size:18px;
+		outline:none;
+	}
+	input{
+		border:2px dotted blue;
+		background:orange;
+		padding:5px;
+		margin-left:10px;
+		.s{
+		text-align:center;
+		}
+	}
+	output{
+		font-size:25px;
+	}
+	span{
+	color:red;
+	margin-left:10px;
+	}
